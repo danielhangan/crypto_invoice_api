@@ -1,0 +1,4 @@
+django
+djang-ninja
+requests
+python-dotenv
